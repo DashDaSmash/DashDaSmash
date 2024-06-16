@@ -1,4 +1,4 @@
-
+<center>
 ![Github](https://th.bing.com/th/id/OIP.Gfe1Gvt2vu1jniEVJPm3QwHaHa?rs=1&pid=ImgDetMain)
 - 👋 Hi, I’m @DashDaSmash
 - 👀 I’m interested in ...
@@ -7,7 +7,7 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+</center>
 <!---
 DashDaSmash/DashDaSmash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
