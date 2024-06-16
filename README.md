@@ -1,7 +1,8 @@
-<div style="display: flex; align-items: center; height: 200px;">
+<center>
     <img src="https://th.bing.com/th/id/OIP.Gfe1Gvt2vu1jniEVJPm3QwHaHa?rs=1&pid=ImgDetMain" width="50" height="50"/>
-  <a href="https://github.com/DashDaSmash">I’m @DashDaSmash<a>
-</div>
+    <br>
+    <p><a href="https://github.com/DashDaSmash">DashDaSmash</a></p>
+</center>
 
 - 👋 Hi, I’m @DashDaSmash
 - 👀 I’m interested in ...
