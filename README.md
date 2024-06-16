@@ -1,7 +1,5 @@
-<center>
-<div>
-  <p align="center">
-  <img src="[URL_of_GIF](https://th.bing.com/th/id/OIP.Gfe1Gvt2vu1jniEVJPm3QwHaHa?rs=1&pid=ImgDetMain)" width="400" height="400"/>
+<p align="center">
+  <img src="https://th.bing.com/th/id/OIP.Gfe1Gvt2vu1jniEVJPm3QwHaHa?rs=1&pid=ImgDetMain" width="400" height="400"/>
 </p>
 
 - 👋 Hi, I’m @DashDaSmash
@@ -11,8 +9,7 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-  </div>
-</center>
+
 <!---
 DashDaSmash/DashDaSmash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
