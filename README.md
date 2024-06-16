@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://th.bing.com/th/id/OIP.Gfe1Gvt2vu1jniEVJPm3QwHaHa?rs=1&pid=ImgDetMain" width="400" height="400"/>
+  <img src="https://th.bing.com/th/id/OIP.Gfe1Gvt2vu1jniEVJPm3QwHaHa?rs=1&pid=ImgDetMain" width="50" height="50"/>
 </p>
 
 - 👋 Hi, I’m @DashDaSmash
