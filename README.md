@@ -1,6 +1,9 @@
 <center>
-<div> 
-![Github](https://th.bing.com/th/id/OIP.Gfe1Gvt2vu1jniEVJPm3QwHaHa?rs=1&pid=ImgDetMain)
+<div>
+  <p align="center">
+  <img src="[URL_of_GIF](https://th.bing.com/th/id/OIP.Gfe1Gvt2vu1jniEVJPm3QwHaHa?rs=1&pid=ImgDetMain)" width="400" height="400"/>
+</p>
+
 - 👋 Hi, I’m @DashDaSmash
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
