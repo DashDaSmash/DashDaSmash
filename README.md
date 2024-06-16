@@ -1,4 +1,5 @@
-s
+<center>
+<div> 
 ![Github](https://th.bing.com/th/id/OIP.Gfe1Gvt2vu1jniEVJPm3QwHaHa?rs=1&pid=ImgDetMain)
 - 👋 Hi, I’m @DashDaSmash
 - 👀 I’m interested in ...
