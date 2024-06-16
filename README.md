@@ -1,5 +1,6 @@
 <p align="center">
   <img src="https://th.bing.com/th/id/OIP.Gfe1Gvt2vu1jniEVJPm3QwHaHa?rs=1&pid=ImgDetMain" width="50" height="50"/>
+  <h3><a href="https://github.com/DashDaSmash">I’m @DashDaSmash<a></h3>
 </p>
 
 - 👋 Hi, I’m @DashDaSmash
