@@ -16,6 +16,4 @@ I'm currently a Computer Science undergraduate.<br>I'm looking to collaborate on
 ![](https://github-profile-trophy.vercel.app/?username=DashDaSmash&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=DashDaSmash&icon=0&color=1)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
